@@ -1,6 +1,7 @@
 ### Hi there, I'm Jan Matias 👋🏽
 <!--
 **JC-MT/JC-MT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![codewars](https://www.codewars.com/users/JC-MT/badges/small)
 
 I am a Full Stack Web Developer based in NYC. 
  
@@ -14,8 +15,6 @@ I am a Full Stack Web Developer based in NYC.
 
 ---
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${JC-MT}.${JC-MT}) -->
-
-![codewars](https://www.codewars.com/users/JC-MT/badges/small)
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JC-MT&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
 
 
