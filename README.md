@@ -17,7 +17,7 @@ Loving learning about this industry and developing skills to make cool stuff. ðŸ
 
 ### ðŸ›  Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,netlify,firebase,vscode)
 
 ---
 
