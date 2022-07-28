@@ -9,7 +9,7 @@ Aspiring Full-Stack Web Developer based in NYC. I'm currently in a year long int
 
 Loving learning about this industry and developing skills to make cool stuff. 🤓
  
-- 🌱 I’m currently learning more backend technologies like: Express, Postgress, and SQL.
+- 🌱 Currently, working on using Express w/SQL and fully leveraging Tailwind 
 - 😎 I’m looking for my first engineering role
 - ⚡ Fun fact: I was once lost in a dessert for ~36 hours and rescued by complete strangers
 
@@ -17,7 +17,7 @@ Loving learning about this industry and developing skills to make cool stuff. �
 
 ### 🛠 Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,netlify,firebase,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,git,netlify,heroku,firebase,vscode)
 
 ---
 
