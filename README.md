@@ -9,15 +9,17 @@ Aspiring Full-Stack Web Developer based in NYC. I'm currently in a year long int
 
 Loving learning about this industry and developing skills to make cool stuff. 🤓
  
-- 🌱 Currently, working on using Express w/SQL and fully leveraging Tailwind 
+- 🌱 Currently, growing in PERN stack development to connect front-end and back-end routes while leveraging Tailwind
+
 - 😎 I’m looking for my first engineering role
+
 - ⚡ Fun fact: I was once lost in a dessert for ~36 hours and rescued by complete strangers
 
 ---
 
 ### 🛠 Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,git,netlify,heroku,firebase,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,tailwind,git,netlify,heroku,firebase,vscode)
 
 ---
 
@@ -26,10 +28,3 @@ Loving learning about this industry and developing skills to make cool stuff. �
 ![visitors](https://github-readme-stats.vercel.app/api?username=JC-MT&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JC-MT&theme=dark&background=000000)
-
-
-
-
-
-
-
