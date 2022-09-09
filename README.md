@@ -4,16 +4,14 @@
 [![codewars](https://www.codewars.com/users/JC-MT/badges/small)](https://www.codewars.com/users/JC-MT)
 
 ---
+### About me
+Full-Stack Software Engineer based in NYC, with expirience in: recruitement, customer service and fufillment operations. Currently, I'm in a year long intensive Full-Stack Fellowship at _[Pursuit](https://www.pursuit.org/mission-vision)_ in Long Island City, NY. In the last 8 months, I've developed a deep understanding and skill of the tools you'll see below and I'm excited to continue learning cool stuff.
 
-Aspiring Full-Stack Web Developer based in NYC. I'm currently in a year long intensive Full-Stack bootcamp to aquire all the skills and knowledge neccesary to someday use in industry and to help others.
+- 🌱 Currently, learning about Data Structures and Algorithms
 
-Loving learning about this industry and developing skills to make cool stuff. 🤓
- 
-- 🌱 Currently, growing in PERN stack development to connect front-end and back-end routes while leveraging Tailwind
+- 😎 I’m looking for my first software engineering role
 
-- 😎 I’m looking for my first engineering role
-
-- ⚡ Fun fact: I was once lost in a dessert for ~36 hours and rescued by complete strangers
+- 🥲 Fun fact: I was once lost in a dessert for ~36 hours and rescued by complete strangers
 
 ---
 
@@ -22,9 +20,44 @@ Loving learning about this industry and developing skills to make cool stuff. �
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,tailwind,git,netlify,heroku,firebase,vscode)
 
 ---
+### Projects:
+<style>
+    .projects {
+        display: flex;
+        flex-direction: row;
+        gap: 2rem;
+    }
+    .home:hover {
+        opacity: .9;
+        cursor: pointer;
+    }
+    .home {
+        height: 85%;
+        width: 100%;
+    }
+</style>
+
+<div class='projects'>
+    <div>
+    <a target="_blank" rel="noreferrer" href='https://plantasync.netlify.app/' >
+    <h3><em>Plantasync</em></h3>
+    <img class='home' alt="Plantasync" src='https://github.com/JC-MT/Plantasynch/blob/main/front-end/public/asset/WelcomePage.png?raw=true' />
+    </a>
+    </div>
+    <div>
+    <a target="_blank" rel="noreferrer" href='https://9tube.netlify.app/'>
+    <h3><em>Youtube Clone</em></h3>
+    <img class="home" alt="YouTubeClone" src="https://user-images.githubusercontent.com/794551/174869076-44044157-e8b5-4f71-a315-5e7e958c6b7d.png"/>
+    </a>
+    </div>
+</div>
+
+---
+
+<br>
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JC-MT&langs_count=5&theme=tokyonight&layout=compact)
 
 ![visitors](https://github-readme-stats.vercel.app/api?username=JC-MT&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JC-MT&theme=dark&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JC-MT&theme=tokyonight)
