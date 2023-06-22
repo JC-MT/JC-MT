@@ -19,7 +19,7 @@ Full-Stack Software Engineer based in NYC, with expirience in: recruitement, cus
 
 ### 🛠 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,tailwind,git,netlify,heroku,firebase,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,tailwind,git,netlify,heroku,firebase,vscode)
 
 ---
 
