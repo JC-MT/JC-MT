@@ -7,11 +7,9 @@
 
 ## About me
 
-Full-Stack Software Engineer based in NYC, with expirience in: recruitement, customer service and fufillment operations. Currently, I'm in a year long intensive Full-Stack Fellowship at _[Pursuit](https://www.pursuit.org/mission-vision)_ in Long Island City, NY. In the last 8 months, I've developed a deep understanding and skill of the tools you'll see below and I'm excited to continue learning cool stuff.
+- 📍 Currently, aplying to entry-level software engineering roles
 
-- 🌱 Currently, learning about Data Structures and Algorithms
-
-- 😎 I’m looking for my first software engineering role
+- 🌱 Growing in: WebSockets, AWS S3 Buckets, and the big LeetCode 75's
 
 - 🥲 Fun fact: I was once lost in a dessert for ~36 hours and rescued by complete strangers
 
