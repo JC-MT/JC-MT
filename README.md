@@ -17,7 +17,7 @@
 
 ### 🛠 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,tailwind,git,netlify,heroku,firebase,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nodejs,express,postgres,git,netlify,heroku,firebase,vite,vscode)
 
 ---
 
