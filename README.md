@@ -5,16 +5,6 @@
 
 ---
 
-## About me
-
-- 📍 Currently, aplying to entry-level software engineering roles
-
-- 🌱 Growing in: WebSockets, AWS S3 Buckets, and the big LeetCode 75's
-
-- 🥲 Fun fact: I was once lost in a dessert for ~36 hours and rescued by complete strangers
-
----
-
 ### 🛠 Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nodejs,express,postgres,git,netlify,heroku,firebase,vite,vscode)
